@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1852d52-0330-405f-9ffd-ea25a62a827d" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="93b53535-ffdb-477a-9c97-2185d26e544c" />
+  <component name="ProjectId" id="1rHpueyNROjP0QOZmH8rwC7fa5G" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Learning\2.0 Object_Detector\FasterRCNN\model_data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="FasterRCNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FasterRCNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FasterRCNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="voc_annotation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FasterRCNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/voc_annotation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xml2ImgID (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FasterRCNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NEU-DET" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NEU-DET/xml2ImgID.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xml2ImgID" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FasterRCNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VOCdevkit/VOC2007" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Learning\2.Object_Detector\FasterRCNN\code\VOCdevkit\VOC2007\xml2ImgID.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xml2ImgID" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FasterRCNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VOCdevkit/VOC2007" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Learning\2.Object_Detector\FasterRCNN\code\VOCdevkit\VOC2007\xml2ImgID.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.voc_annotation" />
+      <item itemvalue="Python.xml2ImgID" />
+      <item itemvalue="Python.predict" />
+      <item itemvalue="Python.xml2ImgID (1)" />
+      <item itemvalue="Python.train" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.voc_annotation" />
+        <item itemvalue="Python.xml2ImgID (1)" />
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.xml2ImgID" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1852d52-0330-405f-9ffd-ea25a62a827d" name="默认更改列表" comment="" />
+      <created>1618643093841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618643093841</updated>
+      <workItem from="1618643095093" duration="2577000" />
+      <workItem from="1618671429543" duration="1842000" />
+      <workItem from="1618712287273" duration="20554000" />
+      <workItem from="1618742877970" duration="29000" />
+      <workItem from="1618742986014" duration="345000" />
+      <workItem from="1618743574589" duration="50000" />
+      <workItem from="1618743719471" duration="288000" />
+      <workItem from="1618744070131" duration="755000" />
+      <workItem from="1618744862919" duration="566000" />
+      <workItem from="1618745503839" duration="13000" />
+      <workItem from="1618746120160" duration="386000" />
+      <workItem from="1618746519322" duration="1027000" />
+      <workItem from="1618747815585" duration="433000" />
+      <workItem from="1618752789056" duration="5104000" />
+      <workItem from="1618794220180" duration="1644000" />
+      <workItem from="1618796226402" duration="7137000" />
+      <workItem from="1618809520345" duration="2244000" />
+      <workItem from="1618812700352" duration="12615000" />
+      <workItem from="1618828080387" duration="2708000" />
+      <workItem from="1618845573266" duration="633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1618746491414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040/-1920.10.1536.824@0.0.1920.1040" timestamp="1618644115420" />
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618746491414" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618643659389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.10.1536.824@0.0.1920.1040" timestamp="1618643659389" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618832405080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618832405080" />
+    <state x="715" y="202" key="#xdebugger.evaluate" timestamp="1618742579989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="202" key="#xdebugger.evaluate/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618742579989" />
+    <state width="1475" height="495" key="DebuggerActiveHint" timestamp="1618816535660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1475" height="495" key="DebuggerActiveHint/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618816535660" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1618643726451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.10.1536.824@0.0.1920.1040" timestamp="1618643726451" />
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom" timestamp="1618836895155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="125" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.10.1536.824@0.0.1920.1040" timestamp="1618645679367" />
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618836895155" />
+    <state width="1877" height="269" key="GridCell.Tab.0.center" timestamp="1618836895155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="125" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.10.1536.824@0.0.1920.1040" timestamp="1618645679367" />
+    <state width="1877" height="269" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618836895155" />
+    <state width="1877" height="269" key="GridCell.Tab.0.left" timestamp="1618836895155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="125" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.10.1536.824@0.0.1920.1040" timestamp="1618645679367" />
+    <state width="1877" height="269" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618836895155" />
+    <state width="1877" height="269" key="GridCell.Tab.0.right" timestamp="1618836895155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="125" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.10.1536.824@0.0.1920.1040" timestamp="1618645679367" />
+    <state width="1877" height="269" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618836895155" />
+    <state width="1877" height="269" key="GridCell.Tab.1.bottom" timestamp="1618836895155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618836895155" />
+    <state width="1877" height="269" key="GridCell.Tab.1.center" timestamp="1618836895155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618836895155" />
+    <state width="1877" height="269" key="GridCell.Tab.1.left" timestamp="1618836895155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618836895155" />
+    <state width="1877" height="269" key="GridCell.Tab.1.right" timestamp="1618836895155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618836895155" />
+    <state x="560" y="214" key="SettingsEditor" timestamp="1618812907930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.10.1536.824@0.0.1920.1040" timestamp="1618643646275" />
+    <state x="560" y="214" key="SettingsEditor/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618812907930" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1618746573440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618746573440" />
+    <state x="670" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1618743576775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618743576775" />
+    <state x="194" y="220" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1618746392337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="194" y="220" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618746392337" />
+    <state x="149" y="179" width="1550" height="725" maximized="true" key="dock-window-1" timestamp="1618823360089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="149" y="179" width="1550" height="725" maximized="true" key="dock-window-1/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618823360089" />
+    <state x="-1776" y="99" width="1102" height="725" maximized="true" key="dock-window-2" timestamp="1618824308185">
+      <screen x="-1920" y="3" width="1536" height="824" />
+    </state>
+    <state x="-1776" y="99" width="1102" height="725" maximized="true" key="dock-window-2/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618824308185" />
+    <state x="578" y="224" width="763" height="592" key="find.popup" timestamp="1618713493314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="578" y="224" width="763" height="592" key="find.popup/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618713493314" />
+    <state x="601" y="246" width="700" height="530" key="recent.locations.popup" timestamp="1618713487909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="246" width="700" height="530" key="recent.locations.popup/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618713487909" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1618832635088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.3.1536.824@0.0.1920.1040" timestamp="1618832635088" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trainer.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/utils.py</url>
+          <line>164</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trainer.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VOCdevkit/VOC2007/xml2ImgID.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception" />
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FasterRCNN$test.coverage" NAME="test Coverage Results" MODIFIED="1618643188787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$anchors.coverage" NAME="anchors Coverage Results" MODIFIED="1618728390566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/code$train.coverage" NAME="train Coverage Results" MODIFIED="1618819922226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$resnet50.coverage" NAME="resnet50 Coverage Results" MODIFIED="1618716207465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets" />
+    <SUITE FILE_PATH="coverage/code$dataloader.coverage" NAME="dataloader Coverage Results" MODIFIED="1618796521400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/code$voc2frcnn.coverage" NAME="voc2frcnn Coverage Results" MODIFIED="1618821446464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VOCdevkit/VOC2007" />
+    <SUITE FILE_PATH="coverage/FasterRCNN$resnet50.coverage" NAME="resnet50 Coverage Results" MODIFIED="1618643596821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets" />
+    <SUITE FILE_PATH="coverage/code$voc_annotation.coverage" NAME="voc_annotation Coverage Results" MODIFIED="1618833126217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$xmlFilename__1_.coverage" NAME="xmlFilename (1) Coverage Results" MODIFIED="1618822202605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VOCdevkit/VOC2007" />
+  </component>
+</project>
